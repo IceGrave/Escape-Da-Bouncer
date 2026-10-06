@@ -6,14 +6,17 @@ TagManager:
   tags:
   - New tag
   - Background
+  - Person
+  - Bouncer
+  - Door
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Ground
   - Water
   - UI
-  - 
+  - Player
   - 
   - 
   - 
